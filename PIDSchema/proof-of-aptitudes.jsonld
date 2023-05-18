@@ -6,13 +6,13 @@
         "id": "@id",
         "type": "@type",
         "ProofOfDaoLongevity": {
-          "@id": "https://raw.githubusercontent.com/ZertiApp/contracts/dev-test/PIDSchema/proof-of-aptitudes.jsonld",
+          "@id": "https://raw.githubusercontent.com/MatiArazi/PID-Test/main/PIDSchema/proof-of-aptitudes.jsonld",
           "@context": {
             "@version": 1.1,
             "@protected": true,
             "id": "@id",
             "type": "@type",
-            "vocab": "https://github.com/ZertiApp/contracts/blob/461af8b6e873e4ec6132f041fbce83d9b5f413f0/PIDSchema/proof-of-aptitudes-vocab.md",
+            "vocab": "https://github.com/MatiArazi/PID-Test/blob/main/PIDSchema/proof-of-aptitudes-vocab.md",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
             "aptitude": {
               "@id": "vocab:aptitude",
