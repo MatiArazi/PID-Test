@@ -1,0 +1,31 @@
+{
+    "@context": [
+      {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "GOBMembership": {
+          "@id": "https://raw.githubusercontent.com/MatiArazi/PID-Test/main/PIDSchema/proof-of-aptitudes.jsonld",
+          "@context": {
+            "@version": 1.1,
+            "@protected": true,
+            "id": "@id",
+            "type": "@type",
+            "vocab": "https://github.com/MatiArazi/PID-Test/blob/main/PIDSchema/proof-of-aptitudes-vocab.md",
+            "xsd": "http://www.w3.org/2001/XMLSchema#",
+            "club": {
+              "@id": "vocab:aptitude",
+              "@type": "xsd:string"
+            },
+            "level": {
+              "@id": "vocab:institution",
+              "@type": "xsd:string"
+            }
+          }
+        }
+      }
+    ]
+  }
+  
+  
