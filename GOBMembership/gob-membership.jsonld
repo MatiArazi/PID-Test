@@ -6,7 +6,7 @@
         "id": "@id",
         "type": "@type",
         "GOBMembership": {
-          "@id": "https://raw.githubusercontent.com/MatiArazi/PID-Test/GOBMembership/PIDSchema/gob-membership.jsonld",
+          "@id": "https://raw.githubusercontent.com/MatiArazi/PID-Test/main/GOBMembership/gob-membership.json",
           "@context": {
             "@version": 1.1,
             "@protected": true,
