@@ -17,6 +17,14 @@
             "aptitude": {
               "@id": "vocab:aptitude",
               "@type": "xsd:string"
+            },
+            "institution": {
+              "@id": "vocab:institution",
+              "@type": "xsd:string"
+            },
+            "date": {
+              "@id": "vocab:date",
+              "@type": "xsd:integer"
             }
           }
         }
