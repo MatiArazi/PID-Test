@@ -24,7 +24,7 @@
             },
             "date": {
               "@id": "vocab:date",
-              "@type": "xsd:date-time"
+              "@type": "xsd:dateTime"
             }
           }
         }
