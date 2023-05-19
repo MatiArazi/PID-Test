@@ -106,9 +106,8 @@
         "type": "object",
         "required": [
           "id",
-          "aptitude",
-          "institution",
-          "date"
+          "club",
+          "level"
         ],
         "properties": {
           "id": {

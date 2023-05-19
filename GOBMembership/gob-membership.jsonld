@@ -15,11 +15,11 @@
             "vocab": "https://github.com/MatiArazi/PID-Test/blob/main/GOBMembership/gob-membership-vocab.md",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
             "club": {
-              "@id": "vocab:aptitude",
+              "@id": "vocab:club",
               "@type": "xsd:string"
             },
             "level": {
-              "@id": "vocab:institution",
+              "@id": "vocab:level",
               "@type": "xsd:string"
             }
           }
