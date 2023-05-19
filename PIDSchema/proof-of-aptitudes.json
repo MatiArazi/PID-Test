@@ -123,7 +123,8 @@
             "type": "string"
           },
           "date": {
-            "type": "integer"
+            "type": "string",
+            "format": "date-time"
           }
         }
       }
