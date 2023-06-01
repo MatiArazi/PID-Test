@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/MatiArazi/PID-Test/main/PIDSchema/proof-of-aptitudes.jsonld",
-        "jsonSchema": "https://raw.githubusercontent.com/MatiArazi/PID-Test/main/PIDSchema/proof-of-aptitudes.json"
+        "jsonLdContext": "https://raw.githubusercontent.com/MatiArazi/PID-Test/main/Shemas/Zerti'sProofOfAptitudes/proof-of-aptitudes.jsonld",
+        "jsonSchema": "https://raw.githubusercontent.com/MatiArazi/PID-Test/main/Shemas/Zerti'sProofOfAptitudes/proof-of-aptitudes.json"
       }
     },
     "required": [
@@ -108,7 +108,7 @@
           "id",
           "aptitude",
           "institution",
-          "date"
+          "fractalID"
         ],
         "properties": {
           "id": {
@@ -122,9 +122,8 @@
           "institution": {
             "type": "string"
           },
-          "date": {
-            "type": "string",
-            "format": "date-time"
+          "fractalID": {
+            "type": "integer"
           }
         }
       }
